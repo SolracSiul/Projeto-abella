@@ -9610,7 +9610,7 @@ h4, h5, h6 {
 }
 
 .bg-gallery {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/imagens/Campina-Grande-Paraiba-shutterstock_1972502687.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/Campina-Grande-Paraiba-shutterstock_1972502687.jpg), no-repeat center center;
   background-size: cover;
 }
 
